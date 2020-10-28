@@ -21,4 +21,5 @@
             "type": "composer",
             "url": "https://mirrors.aliyun.com/composer/"
         }
-    }}
+    }
+}
